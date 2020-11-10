@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "3V6idRqpnVciDyLGKfDMKVWf1zjPaC/JRRWVUxpS25Rny7YOLHBmMrV3x7vDVNo6kSsmLqv/DaYy1tviEsMSIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ShaneO'Moore\\source\\repos\\personal\\Rocky\\Rocky\\Rocky.csproj",
+  "expectedPackageFiles": [
+    "c:\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.9\\microsoft.aspnetcore.mvc.razor.extensions.3.1.9.nupkg.sha512",
+    "c:\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.9\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.9.nupkg.sha512",
+    "c:\\packages\\microsoft.aspnetcore.razor.language\\3.1.9\\microsoft.aspnetcore.razor.language.3.1.9.nupkg.sha512",
+    "c:\\packages\\microsoft.codeanalysis.analyzers\\2.9.3\\microsoft.codeanalysis.analyzers.2.9.3.nupkg.sha512",
+    "c:\\packages\\microsoft.codeanalysis.common\\3.3.0\\microsoft.codeanalysis.common.3.3.0.nupkg.sha512",
+    "c:\\packages\\microsoft.codeanalysis.csharp\\3.3.0\\microsoft.codeanalysis.csharp.3.3.0.nupkg.sha512",
+    "c:\\packages\\microsoft.codeanalysis.razor\\3.1.9\\microsoft.codeanalysis.razor.3.1.9.nupkg.sha512",
+    "c:\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "c:\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "c:\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "c:\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "c:\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "c:\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "c:\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "c:\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "c:\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
